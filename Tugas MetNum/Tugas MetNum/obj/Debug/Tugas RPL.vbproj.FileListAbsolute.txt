@@ -1,0 +1,17 @@
+D:\Tugas\SMST 5\Tugas RPL\Tugas RPL\bin\Debug\Tugas RPL.exe
+D:\Tugas\SMST 5\Tugas RPL\Tugas RPL\bin\Debug\Tugas RPL.pdb
+D:\Tugas\SMST 5\Tugas RPL\Tugas RPL\bin\Debug\Tugas RPL.xml
+D:\Tugas\SMST 5\Tugas RPL\Tugas RPL\obj\Debug\Tugas_RPL.Form1.resources
+D:\Tugas\SMST 5\Tugas RPL\Tugas RPL\obj\Debug\Tugas_RPL.Form2.resources
+D:\Tugas\SMST 5\Tugas RPL\Tugas RPL\obj\Debug\Tugas_RPL.Resources.resources
+D:\Tugas\SMST 5\Tugas RPL\Tugas RPL\obj\Debug\Tugas RPL.vbproj.GenerateResource.Cache
+D:\Tugas\SMST 5\Tugas RPL\Tugas RPL\obj\Debug\Tugas RPL.exe
+D:\Tugas\SMST 5\Tugas RPL\Tugas RPL\obj\Debug\Tugas RPL.xml
+D:\Tugas\SMST 5\Tugas RPL\Tugas RPL\obj\Debug\Tugas RPL.pdb
+D:\Tugas\SMST 5\Tugas RPL\Tugas RPL\obj\Debug\Tugas_RPL.Form3.resources
+D:\Tugas\SMST 5\Tugas RPL\Tugas RPL\obj\Debug\Tugas_RPL.Form4.resources
+D:\Tugas\SMST 5\Tugas RPL\Tugas RPL\obj\Debug\Tugas_RPL.Form5.resources
+D:\Tugas\SMST 5\Tugas RPL\Tugas RPL\obj\Debug\Tugas_RPL.Form6.resources
+D:\Tugas\SMST 5\Tugas MetNum\Tugas RPL\obj\Debug\Tugas RPL.exe
+D:\Tugas\SMST 5\Tugas MetNum\Tugas RPL\obj\Debug\Tugas RPL.xml
+D:\Tugas\SMST 5\Tugas MetNum\Tugas RPL\obj\Debug\Tugas RPL.pdb
